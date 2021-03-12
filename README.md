@@ -1,2 +1,2 @@
 # Amazon-SageMaker-Cookbook
-Published by Pack, Amazon SageMaker Cookbook
+Published by Packt, Amazon SageMaker Cookbook
