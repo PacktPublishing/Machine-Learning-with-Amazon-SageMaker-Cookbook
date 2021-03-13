@@ -1,1 +1,9 @@
 .ipynb_checkpoints/
+
+manifest.json
+model_algo-1
+additional-params.json
+mx-mod-0000.params
+mx-mod-symbol.json
+
+tmp/
