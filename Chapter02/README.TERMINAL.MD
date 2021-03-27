@@ -75,6 +75,7 @@ curl -d "1" -X POST http://$SERVE_IP:8080/invocations
 
 ### Building and Testing the Custom Python Algorithm Container Image
 
+```
 cd /home/ubuntu/environment/opt/ml-python
 IMAGE_NAME=chapter02python
 TAG=1
@@ -87,7 +88,7 @@ docker run --name pyserve --rm -v /opt/ml:/opt/ml $IMAGE_NAME:$TAG serve
 SERVE_IP=$(docker network inspect bridge | jq -r ".[0].Containers[].IPv4Address" | awk -F/ '{print $1}')
 curl http://$SERVE_IP:8080/ping
 curl -d "1" -X POST http://$SERVE_IP:8080/invocations
-
+```
 
 ### Running the R train script
 
