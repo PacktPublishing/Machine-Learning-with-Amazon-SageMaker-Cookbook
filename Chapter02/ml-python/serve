@@ -1,0 +1,54 @@
+#!/usr/bin/env python3
+
+import numpy as np
+
+from flask import Flask
+from flask import Response
+from flask import request
+
+from joblib import dump, load
+
+app = Flask(__name__)
+
+
+PATHS = {
+    'hyperparameters': 'input/config/hyperparameters.json',
+    'input': 'input/config/inputdataconfig.json',
+    'data': 'input/data/',
+    'model': 'model/'
+}
+
+def get_path(key):
+    return '/opt/ml/' + PATHS[key]
+    
+
+def load_model():
+    model = None
+    
+    filename = get_path('model') + 'model'
+    print(filename)
+    
+    model = load(filename)
+    return model
+
+
+@app.route("/invocations", methods=["POST"])
+def predict():
+    model = load_model()
+    
+    post_body = request.get_data().decode("utf-8")
+    
+    payload_value = float(post_body)
+    
+    X_test = np.array([payload_value]).reshape(-1, 1)
+    y_test = model.predict(X_test)
+    
+    return Response(response=str(y_test[0]), status=200)
+
+
+@app.route("/ping")
+def ping():
+    return Response(response="OK", status=200)
+
+
+app.run(host="0.0.0.0", port=8080)

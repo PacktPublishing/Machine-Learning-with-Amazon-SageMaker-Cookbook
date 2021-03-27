@@ -1,0 +1,1 @@
+{"train": {"ContentType": "text/csv", "RecordWrapperType": "None", "S3DistributionType": "FullyReplicated", "TrainingInputMode": "File"}}
