@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
-
 import os
 import numpy as np
-import json
 
 from sklearn.neural_network import MLPRegressor
 from sklearn.externals import joblib
@@ -14,7 +12,8 @@ def set_seed():
 
 
 def model_fn(model_dir):
-    model = joblib.load(os.path.join(model_dir, "model.joblib"))
+    path = os.path.join(model_dir, "model.joblib")
+    model = joblib.load(path)
     
     return model
 
@@ -60,7 +59,8 @@ def main(model_dir, train_path, epochs=2000):
     model = train(model, x, y)
     print(model)
             
-    joblib.dump(model, os.path.join(model_dir, "model.joblib"))    
+    path = os.path.join(model_dir, "model.joblib")
+    joblib.dump(model, path)    
 
 
 if __name__ == "__main__":

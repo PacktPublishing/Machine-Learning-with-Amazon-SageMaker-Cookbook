@@ -28,7 +28,8 @@ def load_data(training_data_location):
 
 def prepare_model():
     model = Sequential([
-        Dense(100, activation=tf.nn.leaky_relu, input_shape=[1]),
+        Dense(100, activation=tf.nn.leaky_relu, 
+                   input_shape=[1]),
         Dense(100, activation=tf.nn.leaky_relu),
         Dense(100, activation=tf.nn.leaky_relu),
         Dense(100, activation=tf.nn.leaky_relu),
@@ -38,12 +39,14 @@ def prepare_model():
         Dense(1)
       ])
     
-    model.compile(loss='mean_squared_error', optimizer='adam')
+    model.compile(loss='mean_squared_error', 
+                  optimizer='adam')
     
     return model
 
 
-def main(model_dir, train_path, val_path, batch_size=200, epochs=2000):
+def main(model_dir, train_path, val_path, 
+         batch_size=200, epochs=2000):
     set_seed()
     
     model = prepare_model()
@@ -63,13 +66,16 @@ def main(model_dir, train_path, val_path, batch_size=200, epochs=2000):
               epochs=epochs, 
               validation_data=(x_val, y_val))    
         
-    tf.saved_model.save(model, os.path.join(model_dir, '000000001'))
+    tf.saved_model.save(
+        model, 
+        os.path.join(model_dir, '000000001'))
 
 
 if __name__ == "__main__":
+    data_path = "/opt/ml/input/data"
     model_dir = "/opt/ml/model"
-    train_path = "/opt/ml/input/data/train/training_data.csv"
-    val_path = "/opt/ml/input/data/validation/validation_data.csv"
+    train_path = f"{data_path}/train/training_data.csv"
+    val_path = f"{data_path}/validation/validation_data.csv"
     
     main(model_dir=model_dir,
          train_path=train_path,
