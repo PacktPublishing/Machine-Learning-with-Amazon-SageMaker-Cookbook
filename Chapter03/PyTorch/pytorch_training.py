@@ -7,8 +7,6 @@ import torch
 import torch.utils.data as Data
 import random
 
-from torch.autograd import Variable
-
 
 def set_seed():
     torch.manual_seed(0)
@@ -78,9 +76,8 @@ def train(model, x, y, epochs=200, learning_rate = 0.001, batch_size=100):
 
     for e in range(epochs):
         for step, (batch_x, batch_y) in enumerate(data_loader): 
-            prediction = model(Variable(batch_x))     
-
-            loss = loss_fn(prediction, Variable(batch_y))     
+            prediction = model(batch_x)     
+            loss = loss_fn(prediction, batch_y)     
 
             optimizer.zero_grad()   
             loss.backward()         
