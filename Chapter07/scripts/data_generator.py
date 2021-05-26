@@ -38,9 +38,6 @@ def main():
     all_df = pd.DataFrame(dict(label=y, a=X[:,0], 
                                b=X[:,1], c=r1, d=r2))
     
-    
-    print(all_df)
-    
     log("Addng the event_time column")
 
     all_df['index'] = range(1, len(all_df) + 1)
@@ -48,6 +45,8 @@ def main():
     all_df["event_time"] = generate_event_time_records(
         len(all_df)
     )
+    
+    print(all_df)
     
     log("Generating the scatterplot")
 
