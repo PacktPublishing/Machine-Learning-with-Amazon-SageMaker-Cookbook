@@ -64,5 +64,8 @@ def main():
 
     pyplot.show()
     
-
-main()
+    return (all_df)
+    
+    
+log("Running the main() function")
+all_df = main()
