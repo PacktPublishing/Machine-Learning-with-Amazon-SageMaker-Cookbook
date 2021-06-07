@@ -1,1 +1,0 @@
-{"train": {"ContentType": "application/json", "RecordWrapperType": "None", "S3DistributionType": "FullyReplicated", "TrainingInputMode": "File"}}
