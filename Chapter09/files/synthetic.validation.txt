@@ -1,0 +1,400 @@
+__label__negative  I  Hate  It  i  hate  it  tastes  bad  i  will  not  recommend  this  to  my  friends  not  impressive 
+__label__positive  Very  Delicious  dinner  time  tastes  good  dinner  time  very  good 
+__label__positive  Impressive  i  would  recommend  this  to  my  friends  this  is  good  dinner  time  food  in  the  restaurant  impressive 
+__label__positive  Donut  impressive  i  like  it  i  like  it  very  good  donut 
+__label__positive  Impressive  donut  very  good  i  like  it  tastes  good 
+__label__positive  Donut  very  good  food  in  the  restaurant  very  delicious  very  good  very  good 
+__label__positive  This  Is  Good  food  in  the  restaurant  food  in  the  restaurant  donut  food  in  the  restaurant  dinner  time  i  like  it 
+__label__positive  Food  In  The  Restaurant  this  is  good  tastes  good  very  good  impressive  food  in  the  restaurant  very  delicious 
+__label__positive  Food  In  The  Restaurant  i  like  it  tastes  good  very  delicious  very  delicious  very  good  food  in  the  restaurant 
+__label__positive  Very  Good  tastes  good  dinner  time  food  in  the  restaurant 
+__label__positive  Donut  tastes  good  i  like  it  impressive  donut 
+__label__negative  Food  In  The  Restaurant  food  in  the  restaurant  donut  tastes  bad  food  in  the  restaurant  this  is  bad 
+__label__positive  Spaghetti  Chicken  Soup  very  good  very  delicious 
+__label__negative  This  Is  Bad  i  will  not  recommend  this  to  my  friends  i  will  not  recommend  this  to  my  friends  tastes  bad 
+__label__positive  Impressive  donut  very  good  dinner  time  impressive  very  delicious 
+__label__positive  Donut  impressive  very  good  very  delicious  tastes  good  donut 
+__label__negative  There  Are  Better  Restaurants  Out  There  there  are  better  restaurants  out  there  food  in  the  restaurant 
+__label__positive  Dinner  Time  very  good  donut  i  like  it  food  in  the  restaurant 
+__label__negative  Dinner  Time  there  are  better  restaurants  out  there  food  in  the  restaurant  not  impressive  i  will  not  recommend  this  to  my  friends  i  hate  it 
+__label__negative  There  Are  Better  Restaurants  Out  There  this  is  bad  dinner  time  this  is  bad  there  are  better  restaurants  out  there  dinner  time  food  in  the  restaurant 
+__label__positive  Food  In  The  Restaurant  food  in  the  restaurant  i  like  it  impressive 
+__label__positive  Impressive  impressive  tastes  good  i  would  recommend  this  to  my  friends 
+__label__positive  Spaghetti  Chicken  Soup  i  like  it  this  is  good 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  very  bad  this  is  bad  not  impressive  donut  i  hate  it 
+__label__positive  I  Like  It  dinner  time  very  good  impressive  tastes  good 
+__label__negative  I  Hate  It  very  bad  tastes  bad  not  impressive  donut 
+__label__negative  Tastes  Bad  dinner  time  spaghetti  chicken  soup 
+__label__positive  This  Is  Good  donut  i  would  recommend  this  to  my  friends  impressive  spaghetti  chicken  soup 
+__label__positive  Impressive  dinner  time  this  is  good  spaghetti  chicken  soup  spaghetti  chicken  soup  i  like  it  tastes  good  very  delicious 
+__label__negative  Food  In  The  Restaurant  tastes  bad  i  hate  it  i  will  not  recommend  this  to  my  friends  i  hate  it  dinner  time  food  in  the  restaurant 
+__label__positive  Very  Good  i  would  recommend  this  to  my  friends  i  would  recommend  this  to  my  friends  very  delicious  donut  i  would  recommend  this  to  my  friends 
+__label__positive  I  Would  Recommend  This  To  My  Friends  this  is  good  very  delicious  dinner  time  very  good  dinner  time  donut 
+__label__positive  This  Is  Good  spaghetti  chicken  soup  dinner  time  dinner  time  this  is  good  very  delicious 
+__label__positive  Impressive  impressive  food  in  the  restaurant  donut 
+__label__positive  Tastes  Good  impressive  this  is  good  i  like  it  this  is  good  donut 
+__label__positive  Very  Good  food  in  the  restaurant  this  is  good  dinner  time 
+__label__negative  Tastes  Bad  i  will  not  recommend  this  to  my  friends  i  will  not  recommend  this  to  my  friends  there  are  better  restaurants  out  there  food  in  the  restaurant  food  in  the  restaurant  i  will  not  recommend  this  to  my  friends 
+__label__positive  Dinner  Time  impressive  this  is  good  this  is  good  tastes  good  i  like  it 
+__label__positive  I  Would  Recommend  This  To  My  Friends  tastes  good  very  delicious  impressive  spaghetti  chicken  soup  dinner  time 
+__label__negative  I  Hate  It  very  bad  this  is  bad  not  impressive  not  impressive 
+__label__positive  Very  Good  impressive  tastes  good  spaghetti  chicken  soup  impressive  tastes  good 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  this  is  bad  there  are  better  restaurants  out  there 
+__label__negative  I  Hate  It  food  in  the  restaurant  i  hate  it  not  impressive 
+__label__positive  Impressive  this  is  good  donut 
+__label__positive  I  Like  It  i  like  it  tastes  good 
+__label__positive  This  Is  Good  tastes  good  very  delicious  i  like  it  tastes  good 
+__label__positive  I  Like  It  very  delicious  this  is  good  dinner  time  donut  very  good  very  delicious 
+__label__negative  Spaghetti  Chicken  Soup  spaghetti  chicken  soup  donut  donut  spaghetti  chicken  soup  i  will  not  recommend  this  to  my  friends  donut 
+__label__negative  Food  In  The  Restaurant  i  hate  it  i  will  not  recommend  this  to  my  friends  this  is  bad  dinner  time 
+__label__negative  There  Are  Better  Restaurants  Out  There  dinner  time  this  is  bad  i  will  not  recommend  this  to  my  friends  donut  this  is  bad 
+__label__positive  Very  Delicious  very  good  tastes  good  tastes  good  i  would  recommend  this  to  my  friends  spaghetti  chicken  soup  i  like  it 
+__label__negative  This  Is  Bad  spaghetti  chicken  soup  spaghetti  chicken  soup  tastes  bad  i  will  not  recommend  this  to  my  friends  food  in  the  restaurant 
+__label__positive  Dinner  Time  i  like  it  donut  donut  tastes  good  spaghetti  chicken  soup 
+__label__positive  Impressive  tastes  good  impressive 
+__label__negative  This  Is  Bad  there  are  better  restaurants  out  there  dinner  time  very  bad  very  bad 
+__label__positive  Food  In  The  Restaurant  donut  very  good  dinner  time  i  like  it  tastes  good  i  would  recommend  this  to  my  friends 
+__label__positive  I  Would  Recommend  This  To  My  Friends  i  would  recommend  this  to  my  friends  i  like  it  very  good  donut 
+__label__negative  Spaghetti  Chicken  Soup  dinner  time  dinner  time  spaghetti  chicken  soup  spaghetti  chicken  soup  this  is  bad 
+__label__positive  Very  Delicious  impressive  very  good  dinner  time  i  like  it  very  delicious  very  delicious 
+__label__positive  Impressive  spaghetti  chicken  soup  very  good  i  like  it  spaghetti  chicken  soup  this  is  good  food  in  the  restaurant 
+__label__positive  I  Like  It  tastes  good  very  good  very  delicious 
+__label__positive  Donut  very  delicious  this  is  good  i  would  recommend  this  to  my  friends  very  good  this  is  good 
+__label__positive  Dinner  Time  very  good  tastes  good 
+__label__positive  Donut  donut  food  in  the  restaurant  this  is  good  very  delicious  very  delicious  i  like  it 
+__label__positive  This  Is  Good  donut  tastes  good  i  would  recommend  this  to  my  friends 
+__label__positive  Very  Good  very  good  very  good  tastes  good 
+__label__negative  Donut  food  in  the  restaurant  very  bad  food  in  the  restaurant  i  will  not  recommend  this  to  my  friends 
+__label__negative  Spaghetti  Chicken  Soup  tastes  bad  there  are  better  restaurants  out  there  donut  there  are  better  restaurants  out  there  this  is  bad 
+__label__negative  Spaghetti  Chicken  Soup  food  in  the  restaurant  there  are  better  restaurants  out  there 
+__label__positive  Spaghetti  Chicken  Soup  i  like  it  dinner  time  impressive  impressive  i  like  it 
+__label__positive  Food  In  The  Restaurant  this  is  good  i  would  recommend  this  to  my  friends  spaghetti  chicken  soup  donut  very  delicious 
+__label__negative  This  Is  Bad  food  in  the  restaurant  i  hate  it  this  is  bad  dinner  time  very  bad 
+__label__positive  Dinner  Time  this  is  good  donut  very  good  food  in  the  restaurant  food  in  the  restaurant  this  is  good  i  would  recommend  this  to  my  friends 
+__label__negative  This  Is  Bad  spaghetti  chicken  soup  this  is  bad  dinner  time  dinner  time  donut  not  impressive  i  will  not  recommend  this  to  my  friends 
+__label__negative  I  Hate  It  dinner  time  there  are  better  restaurants  out  there  not  impressive  donut  not  impressive 
+__label__positive  Dinner  Time  dinner  time  impressive  food  in  the  restaurant  very  delicious  very  good 
+__label__positive  Dinner  Time  i  would  recommend  this  to  my  friends  tastes  good 
+__label__positive  Very  Delicious  spaghetti  chicken  soup  spaghetti  chicken  soup  tastes  good 
+__label__negative  Food  In  The  Restaurant  i  hate  it  i  hate  it  there  are  better  restaurants  out  there  spaghetti  chicken  soup 
+__label__positive  Impressive  spaghetti  chicken  soup  impressive  donut  very  delicious 
+__label__negative  Not  Impressive  very  bad  dinner  time  very  bad  dinner  time  very  bad  i  hate  it 
+__label__negative  Not  Impressive  donut  tastes  bad  tastes  bad  food  in  the  restaurant  very  bad  food  in  the  restaurant  dinner  time 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  donut  donut  i  hate  it  there  are  better  restaurants  out  there 
+__label__positive  Food  In  The  Restaurant  tastes  good  very  delicious  food  in  the  restaurant  food  in  the  restaurant 
+__label__negative  There  Are  Better  Restaurants  Out  There  i  will  not  recommend  this  to  my  friends  not  impressive  not  impressive  spaghetti  chicken  soup 
+__label__negative  Food  In  The  Restaurant  i  hate  it  not  impressive  dinner  time  i  will  not  recommend  this  to  my  friends  tastes  bad 
+__label__negative  Very  Bad  spaghetti  chicken  soup  very  bad  not  impressive  dinner  time  food  in  the  restaurant  tastes  bad 
+__label__positive  Donut  i  like  it  i  would  recommend  this  to  my  friends  impressive  spaghetti  chicken  soup  spaghetti  chicken  soup 
+__label__positive  I  Like  It  food  in  the  restaurant  this  is  good  this  is  good  i  like  it  this  is  good  dinner  time  tastes  good 
+__label__positive  I  Would  Recommend  This  To  My  Friends  very  delicious  donut  tastes  good  tastes  good 
+__label__negative  Donut  very  bad  spaghetti  chicken  soup  there  are  better  restaurants  out  there  food  in  the  restaurant  i  hate  it  not  impressive 
+__label__negative  Very  Bad  there  are  better  restaurants  out  there  dinner  time  i  will  not  recommend  this  to  my  friends  i  hate  it  not  impressive 
+__label__negative  I  Hate  It  tastes  bad  this  is  bad  i  will  not  recommend  this  to  my  friends  this  is  bad  food  in  the  restaurant 
+__label__positive  Donut  spaghetti  chicken  soup  very  delicious  food  in  the  restaurant 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  food  in  the  restaurant  tastes  bad  not  impressive  i  will  not  recommend  this  to  my  friends  tastes  bad 
+__label__negative  There  Are  Better  Restaurants  Out  There  food  in  the  restaurant  this  is  bad  food  in  the  restaurant  dinner  time  this  is  bad 
+__label__negative  Donut  i  hate  it  tastes  bad  donut  donut  tastes  bad 
+__label__positive  Dinner  Time  very  delicious  very  good  spaghetti  chicken  soup  tastes  good  tastes  good 
+__label__negative  This  Is  Bad  there  are  better  restaurants  out  there  i  will  not  recommend  this  to  my  friends  very  bad  spaghetti  chicken  soup  spaghetti  chicken  soup  i  will  not  recommend  this  to  my  friends 
+__label__positive  Very  Delicious  i  would  recommend  this  to  my  friends  donut  tastes  good  i  would  recommend  this  to  my  friends  spaghetti  chicken  soup 
+__label__positive  Donut  i  like  it  impressive  this  is  good  i  would  recommend  this  to  my  friends  spaghetti  chicken  soup  i  like  it 
+__label__negative  This  Is  Bad  donut  not  impressive  very  bad  dinner  time  i  hate  it  donut 
+__label__negative  There  Are  Better  Restaurants  Out  There  not  impressive  dinner  time  i  will  not  recommend  this  to  my  friends 
+__label__negative  Spaghetti  Chicken  Soup  food  in  the  restaurant  spaghetti  chicken  soup  tastes  bad 
+__label__positive  Dinner  Time  spaghetti  chicken  soup  i  like  it  very  delicious  this  is  good  spaghetti  chicken  soup  dinner  time  very  delicious 
+__label__negative  This  Is  Bad  food  in  the  restaurant  this  is  bad  i  hate  it  i  will  not  recommend  this  to  my  friends 
+__label__positive  Dinner  Time  this  is  good  impressive  spaghetti  chicken  soup  very  delicious  very  delicious 
+__label__positive  Tastes  Good  this  is  good  food  in  the  restaurant  spaghetti  chicken  soup  dinner  time  i  like  it  i  would  recommend  this  to  my  friends 
+__label__positive  Dinner  Time  spaghetti  chicken  soup  this  is  good  dinner  time  food  in  the  restaurant  spaghetti  chicken  soup 
+__label__positive  Dinner  Time  donut  i  would  recommend  this  to  my  friends  dinner  time 
+__label__positive  I  Like  It  this  is  good  this  is  good  this  is  good  very  good 
+__label__negative  Donut  tastes  bad  very  bad  not  impressive 
+__label__positive  This  Is  Good  i  would  recommend  this  to  my  friends  food  in  the  restaurant  tastes  good  this  is  good 
+__label__negative  I  Hate  It  very  bad  spaghetti  chicken  soup  this  is  bad  spaghetti  chicken  soup  there  are  better  restaurants  out  there 
+__label__positive  Donut  dinner  time  very  delicious 
+__label__negative  Donut  i  will  not  recommend  this  to  my  friends  tastes  bad  dinner  time 
+__label__positive  Donut  tastes  good  donut  this  is  good 
+__label__negative  Food  In  The  Restaurant  spaghetti  chicken  soup  there  are  better  restaurants  out  there  i  hate  it  there  are  better  restaurants  out  there 
+__label__positive  Spaghetti  Chicken  Soup  i  like  it  very  delicious  tastes  good 
+__label__negative  Tastes  Bad  this  is  bad  dinner  time  there  are  better  restaurants  out  there  not  impressive  this  is  bad  there  are  better  restaurants  out  there 
+__label__positive  Donut  i  like  it  this  is  good  spaghetti  chicken  soup  tastes  good  dinner  time  this  is  good 
+__label__positive  This  Is  Good  food  in  the  restaurant  very  good  spaghetti  chicken  soup  tastes  good 
+__label__positive  Food  In  The  Restaurant  impressive  very  delicious  food  in  the  restaurant  very  good 
+__label__negative  Tastes  Bad  very  bad  there  are  better  restaurants  out  there  tastes  bad  donut 
+__label__positive  This  Is  Good  impressive  spaghetti  chicken  soup  very  delicious  dinner  time  impressive  food  in  the  restaurant 
+__label__positive  Impressive  this  is  good  impressive  impressive 
+__label__negative  Very  Bad  donut  i  will  not  recommend  this  to  my  friends  spaghetti  chicken  soup  spaghetti  chicken  soup  i  will  not  recommend  this  to  my  friends 
+__label__negative  I  Hate  It  donut  there  are  better  restaurants  out  there  dinner  time  tastes  bad 
+__label__negative  Very  Bad  not  impressive  donut  i  will  not  recommend  this  to  my  friends  i  will  not  recommend  this  to  my  friends 
+__label__negative  There  Are  Better  Restaurants  Out  There  there  are  better  restaurants  out  there  donut  this  is  bad  donut 
+__label__positive  Food  In  The  Restaurant  very  good  very  delicious  impressive  very  good  i  like  it  dinner  time  donut 
+__label__negative  There  Are  Better  Restaurants  Out  There  not  impressive  i  will  not  recommend  this  to  my  friends  food  in  the  restaurant 
+__label__positive  Dinner  Time  i  like  it  very  good  impressive  tastes  good  food  in  the  restaurant  dinner  time 
+__label__positive  This  Is  Good  dinner  time  very  delicious 
+__label__negative  This  Is  Bad  food  in  the  restaurant  tastes  bad 
+__label__negative  Dinner  Time  tastes  bad  very  bad  very  bad  spaghetti  chicken  soup  tastes  bad 
+__label__positive  I  Would  Recommend  This  To  My  Friends  i  would  recommend  this  to  my  friends  very  good  spaghetti  chicken  soup 
+__label__positive  Dinner  Time  donut  i  like  it  this  is  good  food  in  the  restaurant  very  good  tastes  good 
+__label__positive  Very  Delicious  dinner  time  i  like  it  dinner  time  very  delicious  impressive 
+__label__negative  I  Hate  It  this  is  bad  food  in  the  restaurant  i  will  not  recommend  this  to  my  friends  i  hate  it  food  in  the  restaurant  tastes  bad  i  will  not  recommend  this  to  my  friends 
+__label__positive  Donut  very  delicious  very  good  impressive  tastes  good  dinner  time  impressive 
+__label__negative  I  Hate  It  there  are  better  restaurants  out  there  this  is  bad  very  bad  this  is  bad  dinner  time 
+__label__positive  I  Would  Recommend  This  To  My  Friends  this  is  good  i  like  it  donut  tastes  good  food  in  the  restaurant  spaghetti  chicken  soup  food  in  the  restaurant 
+__label__positive  Food  In  The  Restaurant  tastes  good  i  like  it  spaghetti  chicken  soup  food  in  the  restaurant 
+__label__negative  Donut  very  bad  i  will  not  recommend  this  to  my  friends  food  in  the  restaurant  i  hate  it  donut 
+__label__negative  I  Hate  It  dinner  time  dinner  time  spaghetti  chicken  soup  this  is  bad 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  i  hate  it  i  will  not  recommend  this  to  my  friends  i  will  not  recommend  this  to  my  friends 
+__label__negative  Tastes  Bad  food  in  the  restaurant  spaghetti  chicken  soup  food  in  the  restaurant  tastes  bad 
+__label__positive  This  Is  Good  tastes  good  very  delicious 
+__label__negative  I  Hate  It  spaghetti  chicken  soup  there  are  better  restaurants  out  there  this  is  bad  tastes  bad  dinner  time 
+__label__negative  Very  Bad  not  impressive  there  are  better  restaurants  out  there  food  in  the  restaurant  food  in  the  restaurant 
+__label__negative  Food  In  The  Restaurant  donut  i  will  not  recommend  this  to  my  friends  spaghetti  chicken  soup 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  dinner  time  there  are  better  restaurants  out  there 
+__label__negative  Food  In  The  Restaurant  food  in  the  restaurant  donut  food  in  the  restaurant  dinner  time  dinner  time  not  impressive 
+__label__negative  Not  Impressive  very  bad  spaghetti  chicken  soup 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  this  is  bad  i  will  not  recommend  this  to  my  friends  food  in  the  restaurant  donut  tastes  bad  i  hate  it 
+__label__positive  Very  Delicious  this  is  good  i  like  it  food  in  the  restaurant 
+__label__positive  Tastes  Good  spaghetti  chicken  soup  very  good  i  would  recommend  this  to  my  friends 
+__label__negative  Not  Impressive  not  impressive  not  impressive 
+__label__positive  Very  Delicious  food  in  the  restaurant  i  like  it 
+__label__positive  Donut  tastes  good  very  delicious  very  good  food  in  the  restaurant  this  is  good  tastes  good 
+__label__positive  Food  In  The  Restaurant  i  like  it  spaghetti  chicken  soup  i  like  it  dinner  time  food  in  the  restaurant  impressive 
+__label__negative  I  Hate  It  i  hate  it  food  in  the  restaurant  there  are  better  restaurants  out  there 
+__label__negative  Spaghetti  Chicken  Soup  this  is  bad  tastes  bad  dinner  time  not  impressive  i  hate  it  not  impressive  food  in  the  restaurant 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  dinner  time  not  impressive  there  are  better  restaurants  out  there  not  impressive  food  in  the  restaurant 
+__label__positive  Spaghetti  Chicken  Soup  i  like  it  dinner  time  very  good  this  is  good 
+__label__positive  Tastes  Good  food  in  the  restaurant  dinner  time 
+__label__negative  I  Hate  It  dinner  time  tastes  bad  food  in  the  restaurant  spaghetti  chicken  soup  very  bad 
+__label__negative  Tastes  Bad  food  in  the  restaurant  spaghetti  chicken  soup  dinner  time  tastes  bad  very  bad  there  are  better  restaurants  out  there 
+__label__negative  Spaghetti  Chicken  Soup  i  hate  it  tastes  bad  dinner  time  there  are  better  restaurants  out  there  very  bad  spaghetti  chicken  soup  tastes  bad 
+__label__negative  Tastes  Bad  food  in  the  restaurant  very  bad  food  in  the  restaurant  very  bad  not  impressive 
+__label__negative  Spaghetti  Chicken  Soup  i  will  not  recommend  this  to  my  friends  i  will  not  recommend  this  to  my  friends  donut  dinner  time  very  bad  spaghetti  chicken  soup  tastes  bad 
+__label__negative  Very  Bad  very  bad  i  hate  it  food  in  the  restaurant  spaghetti  chicken  soup  i  hate  it 
+__label__positive  Tastes  Good  impressive  very  delicious  this  is  good  this  is  good  tastes  good  spaghetti  chicken  soup 
+__label__positive  Dinner  Time  dinner  time  i  like  it  very  good  very  delicious  i  like  it 
+__label__negative  Donut  donut  this  is  bad 
+__label__negative  Very  Bad  spaghetti  chicken  soup  very  bad 
+__label__negative  I  Hate  It  i  will  not  recommend  this  to  my  friends  not  impressive  not  impressive  spaghetti  chicken  soup  this  is  bad  there  are  better  restaurants  out  there 
+__label__positive  Spaghetti  Chicken  Soup  very  good  food  in  the  restaurant  tastes  good  spaghetti  chicken  soup  i  like  it 
+__label__positive  Donut  donut  impressive  food  in  the  restaurant  very  good  impressive 
+__label__negative  Tastes  Bad  dinner  time  this  is  bad  i  hate  it  food  in  the  restaurant  donut 
+__label__positive  Tastes  Good  i  like  it  food  in  the  restaurant  impressive 
+__label__negative  Donut  food  in  the  restaurant  food  in  the  restaurant  spaghetti  chicken  soup 
+__label__positive  Impressive  this  is  good  food  in  the  restaurant  spaghetti  chicken  soup  dinner  time 
+__label__negative  Donut  not  impressive  dinner  time  spaghetti  chicken  soup  donut  donut 
+__label__positive  Very  Delicious  donut  i  would  recommend  this  to  my  friends  this  is  good 
+__label__negative  Not  Impressive  not  impressive  dinner  time  dinner  time  not  impressive  i  will  not  recommend  this  to  my  friends  very  bad 
+__label__negative  I  Hate  It  donut  spaghetti  chicken  soup  food  in  the  restaurant  food  in  the  restaurant 
+__label__positive  I  Would  Recommend  This  To  My  Friends  spaghetti  chicken  soup  this  is  good  i  like  it  impressive 
+__label__positive  Impressive  spaghetti  chicken  soup  tastes  good 
+__label__negative  Food  In  The  Restaurant  not  impressive  i  hate  it  donut  this  is  bad  dinner  time  i  hate  it 
+__label__positive  Dinner  Time  tastes  good  very  good  i  would  recommend  this  to  my  friends  i  like  it  food  in  the  restaurant  very  delicious 
+__label__positive  Spaghetti  Chicken  Soup  very  delicious  food  in  the  restaurant  very  good  spaghetti  chicken  soup 
+__label__positive  Very  Delicious  food  in  the  restaurant  i  would  recommend  this  to  my  friends  impressive  very  delicious  this  is  good  i  like  it  tastes  good 
+__label__negative  This  Is  Bad  spaghetti  chicken  soup  tastes  bad  very  bad 
+__label__positive  Spaghetti  Chicken  Soup  this  is  good  impressive  i  would  recommend  this  to  my  friends 
+__label__negative  Spaghetti  Chicken  Soup  there  are  better  restaurants  out  there  there  are  better  restaurants  out  there  dinner  time 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  donut  there  are  better  restaurants  out  there  i  hate  it  tastes  bad  i  hate  it  tastes  bad  i  will  not  recommend  this  to  my  friends 
+__label__positive  Dinner  Time  food  in  the  restaurant  spaghetti  chicken  soup  spaghetti  chicken  soup  spaghetti  chicken  soup  impressive 
+__label__negative  Donut  very  bad  not  impressive  i  will  not  recommend  this  to  my  friends  i  will  not  recommend  this  to  my  friends  this  is  bad  donut 
+__label__positive  Donut  very  delicious  dinner  time  spaghetti  chicken  soup  tastes  good  very  delicious 
+__label__negative  I  Hate  It  food  in  the  restaurant  food  in  the  restaurant  dinner  time  tastes  bad  food  in  the  restaurant  very  bad  this  is  bad 
+__label__negative  I  Hate  It  donut  there  are  better  restaurants  out  there  there  are  better  restaurants  out  there 
+__label__positive  This  Is  Good  this  is  good  this  is  good  i  would  recommend  this  to  my  friends  dinner  time  donut  spaghetti  chicken  soup  dinner  time 
+__label__negative  Dinner  Time  not  impressive  donut  food  in  the  restaurant 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  there  are  better  restaurants  out  there  donut  dinner  time  i  will  not  recommend  this  to  my  friends  there  are  better  restaurants  out  there  food  in  the  restaurant  very  bad 
+__label__negative  Not  Impressive  tastes  bad  food  in  the  restaurant  spaghetti  chicken  soup  this  is  bad 
+__label__positive  I  Like  It  food  in  the  restaurant  very  good  i  like  it  this  is  good  spaghetti  chicken  soup  very  delicious 
+__label__positive  Impressive  impressive  food  in  the  restaurant  this  is  good  donut  dinner  time 
+__label__negative  Spaghetti  Chicken  Soup  not  impressive  there  are  better  restaurants  out  there  there  are  better  restaurants  out  there  tastes  bad  donut 
+__label__negative  There  Are  Better  Restaurants  Out  There  tastes  bad  not  impressive  there  are  better  restaurants  out  there 
+__label__negative  Tastes  Bad  donut  i  will  not  recommend  this  to  my  friends  food  in  the  restaurant  spaghetti  chicken  soup 
+__label__positive  Food  In  The  Restaurant  food  in  the  restaurant  tastes  good  this  is  good  i  would  recommend  this  to  my  friends  impressive  dinner  time 
+__label__positive  Dinner  Time  dinner  time  i  like  it  tastes  good  food  in  the  restaurant  impressive  tastes  good 
+__label__positive  Very  Good  i  like  it  donut  i  like  it  dinner  time 
+__label__positive  Donut  tastes  good  i  would  recommend  this  to  my  friends  donut  food  in  the  restaurant  tastes  good  spaghetti  chicken  soup 
+__label__positive  I  Like  It  donut  i  would  recommend  this  to  my  friends  impressive  very  delicious  very  good 
+__label__positive  Impressive  impressive  tastes  good  i  would  recommend  this  to  my  friends  very  delicious  this  is  good  very  good 
+__label__positive  Impressive  donut  donut  i  like  it  food  in  the  restaurant 
+__label__negative  Food  In  The  Restaurant  i  hate  it  there  are  better  restaurants  out  there  tastes  bad 
+__label__negative  Not  Impressive  food  in  the  restaurant  food  in  the  restaurant  there  are  better  restaurants  out  there  spaghetti  chicken  soup 
+__label__positive  Donut  i  would  recommend  this  to  my  friends  tastes  good  very  delicious  very  delicious  dinner  time  i  like  it 
+__label__positive  Donut  very  delicious  spaghetti  chicken  soup  dinner  time 
+__label__positive  Impressive  spaghetti  chicken  soup  tastes  good  tastes  good  tastes  good  donut  this  is  good 
+__label__positive  Impressive  donut  food  in  the  restaurant  donut  spaghetti  chicken  soup 
+__label__negative  Dinner  Time  very  bad  donut  dinner  time  very  bad  not  impressive  not  impressive 
+__label__negative  I  Hate  It  donut  this  is  bad  this  is  bad  spaghetti  chicken  soup  spaghetti  chicken  soup  tastes  bad  not  impressive 
+__label__negative  Very  Bad  dinner  time  i  will  not  recommend  this  to  my  friends  dinner  time  not  impressive 
+__label__negative  Tastes  Bad  tastes  bad  spaghetti  chicken  soup  tastes  bad  dinner  time  i  hate  it  not  impressive 
+__label__negative  Very  Bad  not  impressive  donut  i  will  not  recommend  this  to  my  friends  dinner  time 
+__label__positive  I  Would  Recommend  This  To  My  Friends  very  good  very  good  spaghetti  chicken  soup 
+__label__negative  Food  In  The  Restaurant  this  is  bad  very  bad  dinner  time 
+__label__negative  Spaghetti  Chicken  Soup  i  will  not  recommend  this  to  my  friends  there  are  better  restaurants  out  there  i  hate  it  donut  i  hate  it 
+__label__negative  Not  Impressive  i  will  not  recommend  this  to  my  friends  food  in  the  restaurant  very  bad 
+__label__positive  This  Is  Good  i  would  recommend  this  to  my  friends  i  would  recommend  this  to  my  friends  dinner  time  donut  i  would  recommend  this  to  my  friends 
+__label__positive  I  Like  It  tastes  good  very  good  this  is  good 
+__label__negative  Spaghetti  Chicken  Soup  spaghetti  chicken  soup  there  are  better  restaurants  out  there 
+__label__positive  I  Would  Recommend  This  To  My  Friends  spaghetti  chicken  soup  spaghetti  chicken  soup  tastes  good  food  in  the  restaurant 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  food  in  the  restaurant  this  is  bad  i  will  not  recommend  this  to  my  friends  not  impressive  donut 
+__label__negative  I  Hate  It  this  is  bad  very  bad  there  are  better  restaurants  out  there  donut  tastes  bad  i  will  not  recommend  this  to  my  friends 
+__label__positive  Dinner  Time  food  in  the  restaurant  tastes  good  very  delicious  impressive 
+__label__negative  Dinner  Time  this  is  bad  donut  there  are  better  restaurants  out  there 
+__label__positive  I  Like  It  dinner  time  food  in  the  restaurant  very  good  very  good  this  is  good  dinner  time 
+__label__negative  Spaghetti  Chicken  Soup  i  will  not  recommend  this  to  my  friends  food  in  the  restaurant  food  in  the  restaurant  dinner  time  i  will  not  recommend  this  to  my  friends  this  is  bad 
+__label__negative  Tastes  Bad  not  impressive  spaghetti  chicken  soup  i  hate  it 
+__label__negative  I  Hate  It  tastes  bad  dinner  time  i  will  not  recommend  this  to  my  friends  i  will  not  recommend  this  to  my  friends  this  is  bad 
+__label__positive  I  Like  It  this  is  good  very  good  impressive  very  good  food  in  the  restaurant  i  like  it 
+__label__positive  Very  Good  impressive  very  good  very  delicious  tastes  good  donut 
+__label__negative  I  Hate  It  i  will  not  recommend  this  to  my  friends  spaghetti  chicken  soup  food  in  the  restaurant  spaghetti  chicken  soup 
+__label__negative  I  Hate  It  tastes  bad  very  bad  spaghetti  chicken  soup  food  in  the  restaurant  i  will  not  recommend  this  to  my  friends  donut 
+__label__positive  I  Would  Recommend  This  To  My  Friends  impressive  impressive  this  is  good 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  not  impressive  not  impressive  dinner  time  dinner  time  tastes  bad  there  are  better  restaurants  out  there 
+__label__negative  Donut  donut  not  impressive  dinner  time 
+__label__positive  I  Would  Recommend  This  To  My  Friends  dinner  time  dinner  time 
+__label__negative  Donut  spaghetti  chicken  soup  donut  very  bad 
+__label__positive  I  Would  Recommend  This  To  My  Friends  very  delicious  food  in  the  restaurant  tastes  good  tastes  good  very  delicious  i  like  it 
+__label__negative  Donut  very  bad  dinner  time  donut  tastes  bad  there  are  better  restaurants  out  there  tastes  bad 
+__label__positive  Dinner  Time  i  would  recommend  this  to  my  friends  food  in  the  restaurant  this  is  good  food  in  the  restaurant  tastes  good  i  would  recommend  this  to  my  friends 
+__label__positive  Spaghetti  Chicken  Soup  donut  very  good  this  is  good  donut  spaghetti  chicken  soup  very  good 
+__label__positive  Very  Delicious  spaghetti  chicken  soup  food  in  the  restaurant 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  spaghetti  chicken  soup  food  in  the  restaurant  spaghetti  chicken  soup  food  in  the  restaurant  there  are  better  restaurants  out  there  i  hate  it 
+__label__positive  I  Like  It  i  like  it  i  would  recommend  this  to  my  friends  spaghetti  chicken  soup  very  good  donut  i  would  recommend  this  to  my  friends 
+__label__negative  Spaghetti  Chicken  Soup  i  hate  it  spaghetti  chicken  soup  dinner  time  spaghetti  chicken  soup  donut 
+__label__positive  Impressive  spaghetti  chicken  soup  dinner  time  spaghetti  chicken  soup  dinner  time  donut  impressive 
+__label__positive  Spaghetti  Chicken  Soup  food  in  the  restaurant  impressive  donut  tastes  good  impressive  spaghetti  chicken  soup 
+__label__positive  This  Is  Good  i  like  it  impressive  this  is  good 
+__label__positive  I  Like  It  food  in  the  restaurant  i  like  it  i  would  recommend  this  to  my  friends  food  in  the  restaurant  this  is  good  very  delicious 
+__label__positive  Donut  spaghetti  chicken  soup  very  delicious  impressive  this  is  good  tastes  good 
+__label__negative  Tastes  Bad  there  are  better  restaurants  out  there  dinner  time  there  are  better  restaurants  out  there  not  impressive 
+__label__positive  I  Would  Recommend  This  To  My  Friends  i  like  it  dinner  time  i  like  it  i  like  it  donut  dinner  time 
+__label__positive  Dinner  Time  spaghetti  chicken  soup  donut  this  is  good 
+__label__positive  This  Is  Good  very  delicious  very  good  this  is  good  tastes  good 
+__label__negative  Donut  tastes  bad  not  impressive  there  are  better  restaurants  out  there  spaghetti  chicken  soup 
+__label__positive  I  Would  Recommend  This  To  My  Friends  spaghetti  chicken  soup  i  would  recommend  this  to  my  friends  impressive 
+__label__negative  Food  In  The  Restaurant  there  are  better  restaurants  out  there  spaghetti  chicken  soup 
+__label__positive  Food  In  The  Restaurant  tastes  good  impressive  impressive  food  in  the  restaurant  impressive  very  good 
+__label__positive  Tastes  Good  very  good  this  is  good  donut 
+__label__positive  Spaghetti  Chicken  Soup  i  would  recommend  this  to  my  friends  tastes  good  very  delicious  impressive 
+__label__negative  I  Hate  It  i  will  not  recommend  this  to  my  friends  this  is  bad  donut  this  is  bad 
+__label__positive  Food  In  The  Restaurant  i  would  recommend  this  to  my  friends  i  would  recommend  this  to  my  friends 
+__label__positive  Spaghetti  Chicken  Soup  i  like  it  impressive  dinner  time  i  like  it  very  good 
+__label__positive  Tastes  Good  impressive  spaghetti  chicken  soup  spaghetti  chicken  soup  i  like  it 
+__label__negative  Spaghetti  Chicken  Soup  tastes  bad  tastes  bad  i  hate  it  tastes  bad  tastes  bad  donut 
+__label__positive  Very  Good  donut  dinner  time  i  would  recommend  this  to  my  friends  very  delicious  i  like  it 
+__label__negative  Not  Impressive  i  will  not  recommend  this  to  my  friends  very  bad  i  will  not  recommend  this  to  my  friends  not  impressive  donut  i  will  not  recommend  this  to  my  friends 
+__label__negative  Dinner  Time  this  is  bad  there  are  better  restaurants  out  there  i  hate  it  very  bad  donut  there  are  better  restaurants  out  there 
+__label__positive  Very  Good  i  would  recommend  this  to  my  friends  tastes  good 
+__label__negative  Donut  tastes  bad  i  hate  it  i  hate  it  dinner  time 
+__label__negative  Food  In  The  Restaurant  donut  donut  tastes  bad  donut  tastes  bad 
+__label__negative  Tastes  Bad  food  in  the  restaurant  i  hate  it  food  in  the  restaurant  spaghetti  chicken  soup  i  will  not  recommend  this  to  my  friends  this  is  bad 
+__label__positive  Spaghetti  Chicken  Soup  very  delicious  dinner  time  food  in  the  restaurant 
+__label__positive  I  Like  It  this  is  good  donut  impressive  food  in  the  restaurant  donut  dinner  time 
+__label__negative  Spaghetti  Chicken  Soup  food  in  the  restaurant  donut  donut  donut 
+__label__negative  Tastes  Bad  tastes  bad  i  will  not  recommend  this  to  my  friends  donut  not  impressive  donut 
+__label__negative  Very  Bad  tastes  bad  spaghetti  chicken  soup  food  in  the  restaurant 
+__label__positive  Impressive  this  is  good  this  is  good  impressive  very  delicious  very  good 
+__label__positive  Impressive  spaghetti  chicken  soup  spaghetti  chicken  soup  spaghetti  chicken  soup  this  is  good 
+__label__positive  Food  In  The  Restaurant  impressive  donut  very  good 
+__label__positive  Impressive  donut  donut  dinner  time  donut  this  is  good  dinner  time 
+__label__positive  Donut  impressive  i  would  recommend  this  to  my  friends  very  delicious  dinner  time 
+__label__positive  Very  Good  i  like  it  donut  i  like  it  very  good 
+__label__negative  Spaghetti  Chicken  Soup  this  is  bad  tastes  bad  this  is  bad  i  hate  it 
+__label__positive  Very  Delicious  spaghetti  chicken  soup  very  delicious  impressive 
+__label__positive  Dinner  Time  dinner  time  very  delicious  spaghetti  chicken  soup  i  would  recommend  this  to  my  friends  impressive 
+__label__positive  I  Like  It  i  would  recommend  this  to  my  friends  food  in  the  restaurant 
+__label__negative  There  Are  Better  Restaurants  Out  There  tastes  bad  tastes  bad  this  is  bad 
+__label__positive  Food  In  The  Restaurant  i  like  it  i  would  recommend  this  to  my  friends  i  like  it 
+__label__negative  Food  In  The  Restaurant  donut  not  impressive  i  will  not  recommend  this  to  my  friends 
+__label__negative  There  Are  Better  Restaurants  Out  There  there  are  better  restaurants  out  there  dinner  time  very  bad  very  bad  spaghetti  chicken  soup 
+__label__negative  This  Is  Bad  spaghetti  chicken  soup  i  hate  it  very  bad  donut  i  will  not  recommend  this  to  my  friends 
+__label__negative  There  Are  Better  Restaurants  Out  There  spaghetti  chicken  soup  very  bad  dinner  time  tastes  bad  i  will  not  recommend  this  to  my  friends 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  i  hate  it  food  in  the  restaurant  there  are  better  restaurants  out  there  spaghetti  chicken  soup  not  impressive 
+__label__negative  I  Hate  It  not  impressive  dinner  time  donut  i  hate  it  tastes  bad  tastes  bad 
+__label__negative  Spaghetti  Chicken  Soup  spaghetti  chicken  soup  this  is  bad  this  is  bad 
+__label__negative  Tastes  Bad  food  in  the  restaurant  very  bad  dinner  time 
+__label__positive  Spaghetti  Chicken  Soup  very  good  very  good  spaghetti  chicken  soup  very  good 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  not  impressive  donut  spaghetti  chicken  soup  i  hate  it 
+__label__negative  Dinner  Time  dinner  time  donut  not  impressive  i  hate  it 
+__label__negative  Food  In  The  Restaurant  not  impressive  very  bad  food  in  the  restaurant  not  impressive  food  in  the  restaurant  not  impressive 
+__label__positive  I  Would  Recommend  This  To  My  Friends  dinner  time  tastes  good  tastes  good  this  is  good  donut  i  like  it  i  would  recommend  this  to  my  friends 
+__label__positive  Spaghetti  Chicken  Soup  very  good  donut  impressive 
+__label__positive  Donut  dinner  time  donut  impressive  this  is  good  impressive 
+__label__negative  I  Hate  It  dinner  time  spaghetti  chicken  soup 
+__label__negative  Food  In  The  Restaurant  donut  dinner  time  very  bad 
+__label__positive  Donut  this  is  good  food  in  the  restaurant  i  would  recommend  this  to  my  friends  this  is  good 
+__label__positive  Tastes  Good  impressive  this  is  good 
+__label__negative  Donut  dinner  time  tastes  bad  spaghetti  chicken  soup  this  is  bad  tastes  bad 
+__label__negative  Food  In  The  Restaurant  i  will  not  recommend  this  to  my  friends  i  hate  it  very  bad  tastes  bad  there  are  better  restaurants  out  there  tastes  bad 
+__label__negative  Spaghetti  Chicken  Soup  i  will  not  recommend  this  to  my  friends  this  is  bad  there  are  better  restaurants  out  there  very  bad 
+__label__negative  Tastes  Bad  i  hate  it  this  is  bad  spaghetti  chicken  soup  there  are  better  restaurants  out  there  i  will  not  recommend  this  to  my  friends  spaghetti  chicken  soup  i  will  not  recommend  this  to  my  friends 
+__label__positive  Food  In  The  Restaurant  very  good  i  like  it  i  would  recommend  this  to  my  friends  spaghetti  chicken  soup  i  would  recommend  this  to  my  friends 
+__label__positive  Impressive  spaghetti  chicken  soup  impressive  i  would  recommend  this  to  my  friends  this  is  good 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  i  hate  it  donut  tastes  bad  i  will  not  recommend  this  to  my  friends  this  is  bad  i  hate  it 
+__label__positive  Food  In  The  Restaurant  impressive  i  would  recommend  this  to  my  friends  very  delicious 
+__label__positive  Very  Delicious  this  is  good  spaghetti  chicken  soup  dinner  time  tastes  good 
+__label__positive  Very  Delicious  tastes  good  donut  very  good  very  delicious 
+__label__negative  Very  Bad  very  bad  dinner  time  tastes  bad 
+__label__negative  Dinner  Time  dinner  time  this  is  bad  i  will  not  recommend  this  to  my  friends  donut  not  impressive 
+__label__negative  Not  Impressive  this  is  bad  very  bad  dinner  time  tastes  bad  dinner  time  this  is  bad 
+__label__negative  I  Hate  It  food  in  the  restaurant  donut  dinner  time 
+__label__positive  Dinner  Time  donut  impressive  this  is  good  dinner  time  donut  tastes  good 
+__label__negative  I  Hate  It  dinner  time  there  are  better  restaurants  out  there  i  hate  it  not  impressive 
+__label__positive  Food  In  The  Restaurant  very  good  i  would  recommend  this  to  my  friends  this  is  good  spaghetti  chicken  soup  spaghetti  chicken  soup  spaghetti  chicken  soup 
+__label__negative  Spaghetti  Chicken  Soup  donut  tastes  bad  i  hate  it  spaghetti  chicken  soup 
+__label__positive  This  Is  Good  i  would  recommend  this  to  my  friends  i  like  it  very  good 
+__label__negative  Not  Impressive  there  are  better  restaurants  out  there  spaghetti  chicken  soup  spaghetti  chicken  soup  donut 
+__label__negative  Dinner  Time  food  in  the  restaurant  there  are  better  restaurants  out  there  tastes  bad  i  hate  it  dinner  time 
+__label__positive  Dinner  Time  donut  very  delicious  spaghetti  chicken  soup  dinner  time  donut 
+__label__negative  Not  Impressive  spaghetti  chicken  soup  tastes  bad  i  will  not  recommend  this  to  my  friends  dinner  time  there  are  better  restaurants  out  there  not  impressive 
+__label__negative  Tastes  Bad  food  in  the  restaurant  there  are  better  restaurants  out  there  i  will  not  recommend  this  to  my  friends  there  are  better  restaurants  out  there  tastes  bad  donut 
+__label__negative  I  Will  Not  Recommend  This  To  My  Friends  food  in  the  restaurant  donut 
+__label__negative  Donut  dinner  time  tastes  bad  not  impressive 
+__label__negative  Food  In  The  Restaurant  tastes  bad  spaghetti  chicken  soup  there  are  better  restaurants  out  there  spaghetti  chicken  soup 
+__label__negative  Food  In  The  Restaurant  this  is  bad  this  is  bad  this  is  bad 
+__label__positive  Impressive  very  delicious  very  delicious  i  would  recommend  this  to  my  friends  i  like  it  food  in  the  restaurant  i  would  recommend  this  to  my  friends 
+__label__negative  Donut  not  impressive  not  impressive  this  is  bad  very  bad  i  hate  it  i  hate  it 
+__label__negative  Very  Bad  i  will  not  recommend  this  to  my  friends  spaghetti  chicken  soup  tastes  bad  spaghetti  chicken  soup  not  impressive 
+__label__negative  Very  Bad  i  hate  it  this  is  bad  tastes  bad  this  is  bad 
+__label__positive  Food  In  The  Restaurant  i  like  it  food  in  the  restaurant  donut  tastes  good  tastes  good  tastes  good  very  delicious 
+__label__negative  This  Is  Bad  donut  there  are  better  restaurants  out  there  this  is  bad  this  is  bad  this  is  bad  not  impressive 
+__label__negative  I  Hate  It  very  bad  dinner  time  tastes  bad 
+__label__positive  Food  In  The  Restaurant  dinner  time  dinner  time  i  like  it  this  is  good  impressive 
+__label__negative  Donut  i  will  not  recommend  this  to  my  friends  donut  dinner  time  i  will  not  recommend  this  to  my  friends  there  are  better  restaurants  out  there 
+__label__positive  Spaghetti  Chicken  Soup  donut  very  delicious  impressive  i  would  recommend  this  to  my  friends 
+__label__positive  Spaghetti  Chicken  Soup  dinner  time  food  in  the  restaurant 
+__label__positive  Donut  donut  i  like  it 
+__label__positive  I  Would  Recommend  This  To  My  Friends  very  delicious  impressive 
+__label__negative  Dinner  Time  there  are  better  restaurants  out  there  this  is  bad  i  will  not  recommend  this  to  my  friends 
+__label__positive  This  Is  Good  donut  food  in  the  restaurant  spaghetti  chicken  soup  dinner  time  dinner  time  donut  i  like  it 
+__label__positive  Donut  dinner  time  this  is  good  very  delicious  spaghetti  chicken  soup 
+__label__positive  This  Is  Good  dinner  time  i  like  it  impressive  spaghetti  chicken  soup  i  like  it 
+__label__positive  I  Like  It  impressive  dinner  time  tastes  good  i  like  it 
+__label__positive  Food  In  The  Restaurant  this  is  good  dinner  time  food  in  the  restaurant 
+__label__positive  Very  Good  very  good  food  in  the  restaurant  very  delicious  very  delicious  impressive 
+__label__negative  I  Hate  It  very  bad  very  bad  there  are  better  restaurants  out  there 
+__label__positive  Food  In  The  Restaurant  very  delicious  food  in  the  restaurant  spaghetti  chicken  soup  donut  tastes  good 
+__label__positive  Food  In  The  Restaurant  very  good  dinner  time  donut  very  delicious 
+__label__positive  Spaghetti  Chicken  Soup  impressive  very  good  very  good  very  good  donut  very  delicious  impressive 
+__label__positive  Food  In  The  Restaurant  food  in  the  restaurant  i  would  recommend  this  to  my  friends  very  good  very  delicious 
+__label__positive  Very  Good  donut  tastes  good  spaghetti  chicken  soup 
+__label__negative  Donut  donut  i  will  not  recommend  this  to  my  friends  tastes  bad  food  in  the  restaurant  there  are  better  restaurants  out  there 
+__label__negative  I  Hate  It  i  will  not  recommend  this  to  my  friends  not  impressive  i  hate  it  not  impressive  tastes  bad 
+__label__negative  There  Are  Better  Restaurants  Out  There  donut  donut  there  are  better  restaurants  out  there 
+__label__negative  Very  Bad  not  impressive  i  hate  it  donut  not  impressive 
+__label__positive  This  Is  Good  i  like  it  i  like  it  this  is  good  food  in  the  restaurant  impressive  tastes  good 
+__label__negative  Donut  donut  not  impressive  food  in  the  restaurant 
+__label__positive  Dinner  Time  very  delicious  food  in  the  restaurant  tastes  good  food  in  the  restaurant  donut 
+__label__positive  I  Like  It  tastes  good  i  would  recommend  this  to  my  friends  impressive  i  would  recommend  this  to  my  friends  tastes  good  food  in  the  restaurant 
+__label__positive  Donut  i  would  recommend  this  to  my  friends  this  is  good 
+__label__negative  Spaghetti  Chicken  Soup  dinner  time  there  are  better  restaurants  out  there  spaghetti  chicken  soup  not  impressive 
+__label__negative  I  Hate  It  not  impressive  i  will  not  recommend  this  to  my  friends  spaghetti  chicken  soup  i  will  not  recommend  this  to  my  friends 
+__label__positive  Food  In  The  Restaurant  i  would  recommend  this  to  my  friends  this  is  good  food  in  the  restaurant  very  good 
+__label__negative  Donut  i  will  not  recommend  this  to  my  friends  i  will  not  recommend  this  to  my  friends  donut  there  are  better  restaurants  out  there 
+__label__positive  This  Is  Good  impressive  dinner  time  tastes  good  food  in  the  restaurant  this  is  good  i  would  recommend  this  to  my  friends  tastes  good 
+__label__negative  This  Is  Bad  tastes  bad  dinner  time  spaghetti  chicken  soup  food  in  the  restaurant  not  impressive  spaghetti  chicken  soup 
+__label__negative  Tastes  Bad  dinner  time  food  in  the  restaurant  spaghetti  chicken  soup  tastes  bad  this  is  bad  food  in  the  restaurant 
+__label__positive  Food  In  The  Restaurant  food  in  the  restaurant  spaghetti  chicken  soup  i  like  it  very  delicious 
+__label__negative  Not  Impressive  there  are  better  restaurants  out  there  tastes  bad  i  hate  it 
+__label__positive  I  Like  It  i  would  recommend  this  to  my  friends  food  in  the  restaurant  this  is  good  impressive  this  is  good  donut  this  is  good 
+__label__positive  This  Is  Good  food  in  the  restaurant  impressive  this  is  good  tastes  good 
