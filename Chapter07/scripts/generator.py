@@ -47,6 +47,9 @@ def main():
     all_df.insert(0, "approved", approved_col)
     all_df.loc[0:599, 'approved'] = True
     
+    log("Shuffling DataFrame rows")
+    all_df = all_df.sample(frac=1).reset_index(drop=True)
+    
     log("Generating the index and event_time column values")
     all_df['index'] = range(1, len(all_df) + 1)
     all_df['event_time'] = generate_event_time_records(len(all_df))
