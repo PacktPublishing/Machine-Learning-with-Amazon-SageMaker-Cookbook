@@ -1,4 +1,4 @@
-# Machine Learning with Amazon SageMaker Cookbook
+# [Machine Learning with Amazon SageMaker Cookbook: 80 proven recipes for data scientists and developers to perform ML experiments and deployments](https://www.amazon.com/Machine-Learning-Amazon-SageMaker-Cookbook/dp/1800567030) 
 
 This is the official code repository for [Machine Learning with Amazon SageMaker Cookbook: 80 proven recipes for data scientists and developers to perform ML experiments and deployments](https://www.amazon.com/Machine-Learning-Amazon-SageMaker-Cookbook/dp/1800567030), published by [Packt](https://www.packtpub.com/?utm_source=github). This repository contains most of the notebooks and supporting files to help the readers work through each of the recipes of this book. 
 
@@ -24,7 +24,7 @@ By the end of this book, you will be able to combine the different solutions you
 He holds 9 AWS certifications and has contributed several times as a certification **Subject Matter Expert** (SME) to help update the **AWS Certified Machine Learning - Specialty** (ML - S) exam during the Item Development Workshops.
 
 
-## [Machine Learning with Amazon SageMaker Cookbook: 80 proven recipes for data scientists and developers to perform ML experiments and deployments](https://www.amazon.com/Machine-Learning-Amazon-SageMaker-Cookbook/dp/1800567030) 
+## [Book Chapters](https://www.amazon.com/Machine-Learning-Amazon-SageMaker-Cookbook/dp/1800567030) 
 
 ### [Chapter 1 - Getting Started with Machine Learning using Amazon SageMaker](Chapter01)
 
