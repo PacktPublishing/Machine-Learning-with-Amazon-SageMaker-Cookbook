@@ -51,6 +51,19 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800567030_ColorImages.pdf).
 
+## Errata & Troubleshooting Tips
+
+### `Page 76` (**Launching and preparing the Cloud9 environment**): 
+
+In some cases, a **Cloud9** instance fails to launch due to **VPC** network configuration issues. If you see an error similar to `Unable to access your environment... failed to create: [Instance]...`, you may need to do one or more of the following to troubleshoot and solve the issue:
+
+1. Use a different availability zone (e.g., `us-east-1c`)
+2. Use the default VPC when launching the Cloud9 instance. If there is no default VPC, creating a new one with only public subnets would help get things working easily. You may use the **VPC Wizard** and choose the `VPC with a Single Public Subnet` option. Once this new VPC has been created, use this VPC along with the public subnet when configuring and creating a new Cloud9 instance.
+3. Check if resources in the subnet selected (e.g., `subnet-abcdef | default in us-east-1a`) have internet access. This can be checked in the routing table configuration in the VPC console. Look for the route table where the subnet is associated (implicitly or explicitly) and check if we have this configuration: `[Destination] 0.0.0.0/0 and [Target] igw-abcdef`. Link: `https://console.aws.amazon.com/vpc/home?region=us-east-1#RouteTables`:
+4. If none of the above works, use a different region with an existing default VPC and try different subnets.
+
+For more information, [click here](https://docs.aws.amazon.com/cloud9/latest/user-guide/troubleshooting.html)
+
 ## Code in Action
 
 Click on the following link to see the Code in Action:
